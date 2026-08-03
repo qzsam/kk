@@ -4,6 +4,25 @@
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png;md5;0e2e24faba82c2482bcf3a3a690600f1",
   "sites": [
     {
+      "key": "极影",
+      "name": "🌾吉祥如意4k",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "csp_app12",
+      "name": "🥇奇迹云4k",
+      "type": 1,
+      "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "腾讯弹幕",
       "name": "🔥企鹅｜4K(JX)",
       "type": 3,
@@ -153,25 +172,6 @@
         "module_name": "BuBu"
       }
     },
- {
-      "key": "极影",
-      "name": "🌾吉祥如意4k",
-      "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-    {
-      "key": "csp_app12",
-      "name": "🥇奇迹云4k",
-      "type": 1,
-      "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "csp_appys_影视",
       "name": "🥇影视综合|解析",
@@ -183,11 +183,21 @@
       "changeable": 1,
       "playUrl": "json:https://jx.84jia.com/api/?key=rc4qjSqZr2z9DFDchk&url="
     },
-   {
+    {
+      "key": "csp_app1",
+      "name": "🥇官源4k|追云",
+      "type": 1,
+      "api": "https://cms.69mini.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "https://jx.84jia.com/api/?key=rc4qjSqZr2z9DFDchk&url="
+    },
+    {
       "key": "csp_appys_臻彩",
       "name": "🥇官源4k解析",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
+      "api": "https://pan.szfx.top/down.php/0ad9b64f9702e7f2fd28b7c67ae79b8f.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -206,7 +216,7 @@
     }
   ],
   "parses": [
-　　 {
+    {
       "name": "❄️哔叽5",
       "type": 1,
       "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
@@ -215,6 +225,6 @@
       "name": "💝小鱼解析",
       "type": 1,
       "url": "https://jx.84jia.com/api/?key=rc4qjSqZr2z9DFDchk&url="
-    } 
-]
+    }
+  ]
 }
