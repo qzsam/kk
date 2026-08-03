@@ -130,6 +130,24 @@
         "ua": "okhttp/3.10.0"
       }
     },
+{
+      "key": "星耀4K",
+      "name": "❄️星耀影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "CO4K",
+      "name": "❄️C O 影视",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "映视界",
       "name": "❄️视界|4K",
