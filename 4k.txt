@@ -206,15 +206,15 @@
     }
   ],
   "parses": [
+　　 {
+      "name": "❄️哔叽5",
+      "type": 1,
+      "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
+    },
     {
       "name": "💝小鱼解析",
       "type": 1,
       "url": "https://jx.84jia.com/api/?key=rc4qjSqZr2z9DFDchk&url="
-    },
-    {
-      "name": "❄️哔叽5",
-      "type": 1,
-      "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
-    }
-  ]
+    } 
+]
 }
