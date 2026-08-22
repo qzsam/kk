@@ -130,66 +130,6 @@
         "ua": "okhttp/3.10.0"
       }
     },
-{
-      "key": "星耀4K",
-      "name": "❄️星耀影探",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CO4K",
-      "name": "❄️C O 影视",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "映视界",
-      "name": "❄️视界|4K",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
-    },
-    {
-      "key": "巴布",
-      "name": "❄️巴布|4K",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://raw.gitcode.com/suixin00/0/blobs/5590e3e18944059f8c6d78afea8662365a9d42f7/yb.js"
-    },
-    {
-      "key": "皮皮虾",
-      "name": "❄️皮皮|4K",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/皮皮虾?platform=ysc&token=688988"
-    },
-    {
-      "key": "咕噜咕噜",
-      "name": "❄️咕噜|4K",
-      "type": 4,
-      "api": "http://bu.970088.xyz/video/咕噜99?platform=ysc&token=688988",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": ""
-    },
-    {
-      "key": "php_BuBu",
-      "name": "🍎布布影视(T4)",
-      "type": 4,
-      "api": "https://php.doube.eu.org/php/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "module_name": "BuBu"
-      }
-    },
     {
       "key": "csp_appys_影视",
       "name": "🥇影视综合|解析",
