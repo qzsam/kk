@@ -243,6 +243,17 @@
       "filterable": 1,
       "changeable": 1
     },
+{
+            "key": "20",
+            "name": "应该可以",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playable": 1
+        },
     {
       "key": "星耀4K",
       "name": "❄️星耀影探",
