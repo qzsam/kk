@@ -17,7 +17,7 @@
     },
 {
 		    "key": "Alist",
-		    "name": "\uD83D\uDE40Alist",
+		    "name": "💝Alist",
 		    "type":3,
 		    "api": "csp_AList",
 		    "searchable": 1,
