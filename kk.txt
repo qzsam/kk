@@ -18,6 +18,7 @@
 {
 		    "key": "Alist",
 		    "name": "💝Alist",
+            "jar": "http://www.226500.top:4567/spring.jar",
 		    "type":3,
 		    "api": "csp_AList",
 		    "searchable": 1,
