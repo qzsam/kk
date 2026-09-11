@@ -129,7 +129,7 @@
 {
             "key": "腾爱优B",
             "name": "腾爱优B",
-            "type": 3,
+            "type": 1,
             "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.jsb站.js",
             "playUrl": "https://api.52xiaobai.cn/api/parse.php?token=f4534056c6c1b4e939cd9eada7f9eee1&url=",
             "searchable": 1,
