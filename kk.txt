@@ -42,11 +42,11 @@
             "name": "小雅26500",
 						"search": true,
             "searchable": true,
-            "server": "http://www.226500.top:5344",
+            "server": "http://223.86.170.98:5678",
             "hidden": false,
             "login": {
-               "username": "laingy",
-               "password": "Zhql7836147"
+              "username": "guest",
+               "password": "guest_Api789"
 							}
           }
 		]
