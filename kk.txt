@@ -245,7 +245,7 @@
     },
 {
             "key": "20",
-            "name": "应该可以",
+            "name": "4K影视",
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py",
             "searchable": 1,
