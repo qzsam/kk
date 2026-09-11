@@ -126,17 +126,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-            "key": "腾爱优B",
-            "name": "腾爱优B",
-            "type": 3,
-            "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.jsb站.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playable": 1
-        },
     {
       "key": "TW",
       "name": "💝天卫|腾爱优B站",
