@@ -15,43 +15,6 @@
       "key": "csp_XiaoYa",
       "searchable": 1
     },
-{
-		    "key": "Alist",
-		    "name": "💝Alist",
-            "jar": "http://www.226500.top:4567/spring.jar",
-		    "type":3,
-		    "api": "csp_AList",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1,
-			"changeable":1,
-			"timeout":60,
-		    "ext": 
-		{
-           "drives": [
-        {
-            "name": "本地alist",
-            "server": "http://127.0.0.1:5244/",
-            "hidden": false,
-            "login": {
-                "username": "admin",
-                "password": "admin"
-               }
-        },
-				{
-            "name": "小雅26500",
-						"search": true,
-            "searchable": true,
-            "server": "http://223.86.170.98:5678",
-            "hidden": false,
-            "login": {
-              "username": "guest",
-               "password": "guest_Api789"
-							}
-          }
-		]
-       }
-		},
     {
       "key": "hohaiemby",
       "name": "🕊️4K_Emby✨",
@@ -128,6 +91,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cms.lyyytv.cn/api.php/app/"
+    },
+   {
+      "key": "网盘",
+      "name": "❄️网盘|4K",
+      "type": 4,
+      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
     },
     {
       "key": "极影",
@@ -265,14 +234,6 @@
       "ext": "http://43.248.117.123:4680"
     },
     {
-      "key": "山栾",
-      "name": "❄️山栾影视｜PY",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/xiaomu-07/txt/raw/master/%E5%B1%B1%E6%A5%82%E5%BD%B1%E8%A7%86.py",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "界影视",
       "name": "界影2k|PY",
       "type": 3,
@@ -290,12 +251,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "网盘",
-      "name": "❄️网盘|4K",
-      "type": 4,
-      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
     },
     {
       "key": "星河",
