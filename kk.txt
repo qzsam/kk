@@ -15,6 +15,27 @@
       "key": "csp_XiaoYa",
       "searchable": 1
     },
+{
+           "drives": [
+        {
+            "name": "本地alist",
+            "server": "http://127.0.0.1:5244/",
+            "hidden": false,
+            "login": {
+                "username": "admin",
+                "password": "admin"
+               }
+        },
+		{
+            "name": "小雅2",
+            "server": "http://223.86.170.98:5678",
+            "hidden": false,
+            "login": {
+               "username": "guest",
+               "password": "guest_Api789"
+							}
+          }
+	},
     {
       "key": "hohaiemby",
       "name": "🕊️4K_Emby✨",
