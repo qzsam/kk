@@ -15,40 +15,6 @@
       "key": "csp_XiaoYa",
       "searchable": 1
     },
-{
-		    "key": "Alist",
-		    "name": "\uD83D\uDE40Alist",
-		    "type":3,
-		    "api": "csp_AList",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1,
-			"changeable":1,
-			"timeout":60,
-		    "ext": 
-		{
-           "drives": [
-        {
-            "name": "本地alist",
-            "server": "http://127.0.0.1:5244/",
-            "hidden": false,
-            "login": {
-                "username": "admin",
-                "password": "admin"
-               }
-        },
-		{
-            "name": "小雅",
-            "server": "http://223.86.170.98:5678",
-            "hidden": false,
-            "login": {
-               "username": "guest",
-               "password": "guest_Api789"
-							}
-          }
-	    ]
-       }
-	},
     {
       "key": "hohaiemby",
       "name": "🕊️4K_Emby✨",
