@@ -295,11 +295,6 @@
       "url": "https://api.52xiaobai.cn/api/parse.php?token=f4534056c6c1b4e939cd9eada7f9eee1&url="
     },
     {
-      "name": "❤无意云4k",
-      "type": 1,
-      "url": "https://qsy.wya6.cn/parse.php?url="
-    },
-    {
       "name": "❄️哔叽5",
       "type": 1,
       "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
