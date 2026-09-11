@@ -131,7 +131,6 @@
             "name": "腾爱优B",
             "type": 3,
             "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.jsb站.js",
-            "playUrl": " ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
