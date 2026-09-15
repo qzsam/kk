@@ -3,40 +3,7 @@
   "spider": "http://app.69mini.com/tvbox/1204.jar",
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png;md5;0e2e24faba82c2482bcf3a3a690600f1",
   "sites": [
-    {
-      "ext": "eyJ1aWQiOiIwYTgxNDYwNDEyZTg0YTY0OTZmOTU4ZjFjNjQzYzBjOSIsImFwaSI6Imh0dHA6Ly93d3cuMjI2NTAwLnRvcDo0NTY3Iiwic2VjcmV0IjoiMTgxMzk0OWFjNzMxNDVjYWFjMDY5NzRlOGMxN2U2MTQiLCJ0b2tlbiI6InpocUw3ODM2MTQ3IiwibG9jYWxfcHJveHlfY29uZmlnIjp7IlBBTjEzOSI6eyJjaHVua19zaXplIjoyNTYsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5Ijo0fSwiUEFOMTE1Ijp7ImNodW5rX3NpemUiOjEwMjQsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5IjoyfSwiR1VBTkdZQSI6eyJjaHVua19zaXplIjoyNTYsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5IjoxMH0sIlFVQVJLIjp7ImNodW5rX3NpemUiOjEwMjQsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5IjoyMH0sIkJBSURVIjp7ImNodW5rX3NpemUiOjIwNDgsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5Ijo1fSwiQUxJIjp7ImNodW5rX3NpemUiOjEwMjQsImVuYWJsZWQiOnRydWUsImNvbmN1cnJlbmN5IjoyMH0sIlVDIjp7ImNodW5rX3NpemUiOjI1NiwiZW5hYmxlZCI6dHJ1ZSwiY29uY3VycmVuY3kiOjEwfSwiUEFOMTIzIjp7ImNodW5rX3NpemUiOjI1NiwiZW5hYmxlZCI6dHJ1ZSwiY29uY3VycmVuY3kiOjR9fX0=",
-      "filterable": 1,
-      "quickSearch": 1,
-      "name": "💝丫仙女",
-      "changeable": 0,
-      "jar": "http://www.226500.top:4567/spring.jar",
-      "api": "csp_XiaoYa",
-      "type": 3,
-      "key": "csp_XiaoYa",
-      "searchable": 1
-    },
-    {
-      "key": "hohaiemby",
-      "name": "🕊️4K_Emby✨",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ediart/tvbox@main/lz/emby.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "server": "https://emby.hohai.eu.org:443",
-        "username": "one123",
-        "password": "123456",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "MyComputer",
-        "client": "HillsWindows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
-    },
-    {
+     {
       "key": "pyemby",
       "name": "🕊️4K_Emby✨✅",
       "type": 3,
@@ -55,7 +22,7 @@
     },
     {
       "key": "傻瓜",
-      "name": "🌾瓜子官源",
+      "name": "🌾瓜子官源|PY",
       "type": 3,
       "api": "https://raw.gitcode.com/u013624795/jk/blobs/da9c0ad2686671f21b1f4110cb9e63f91ec68b6e/%E7%93%9C%E5%AD%90.py",
       "searchable": 1,
@@ -245,7 +212,7 @@
     },
 {
             "key": "20",
-            "name": "4K影视",
+            "name": "4K影视|PY",
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py",
             "searchable": 1,
@@ -289,12 +256,7 @@
     }
   ],
   "parses": [
-    {
-      "name": "🍎tvbox",
-      "type": 1,
-      "url": "https://api.52xiaobai.cn/api/parse.php?token=f4534056c6c1b4e939cd9eada7f9eee1&url="
-    },
-    {
+       {
       "name": "❄️哔叽5",
       "type": 1,
       "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
