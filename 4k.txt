@@ -79,23 +79,6 @@
       "playable": 1
     },
   {
-      "key": "pyemby",
-      "name": "🕊️4K_Emby✨✅",
-      "type": 3,
-      "api": "https://8815.kstore.vip/tvbox/py/py_emby_proxy.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "server": "https://a3858bda477fa8503.app.workbuddy.link:443",
-        "username": "public",
-        "password": "123456",
-        "thread": 0,
-        "proxy": ""
-      },
-      "changeable": 1
-    },
-  {
       "key": "影探",
       "name": "💝影探4k",
       "type": 3,
