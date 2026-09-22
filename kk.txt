@@ -4,23 +4,6 @@
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png;md5;0e2e24faba82c2482bcf3a3a690600f1",
   "sites": [
      {
-      "key": "pyemby",
-      "name": "🕊️4K_Emby✨✅",
-      "type": 3,
-      "api": "https://8815.kstore.vip/tvbox/py/py_emby_proxy.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "server": "https://a3858bda477fa8503.app.workbuddy.link:443",
-        "username": "public",
-        "password": "123456",
-        "thread": 0,
-        "proxy": ""
-      },
-      "changeable": 1
-    },
-    {
       "key": "傻瓜",
       "name": "🌾瓜子官源|PY",
       "type": 3,
