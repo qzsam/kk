@@ -51,6 +51,30 @@
         "ua": "okhttp/3.10.0"
       }
     },
+ {
+      "key": "零度4K",
+      "name": "❄️零度4K",
+      "type": 3,
+      "api": "https://gitee.com/xiaomu-07/json/raw/master/%E9%9B%B6%E5%BA%A64K(1).py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "下饭4K",
+      "name": "❄️下饭4K",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/xiaomu-07/json/raw/master/%E5%89%A7%E4%B8%8B%E9%A5%AD4K.py",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AppV7Fz",
+      "name": "❄️粉猪|4K",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/1/blobs/81d7dc6d1ff76b573a55d844edbe9064879d66d2/AW.png",
+      "api": "csp_AppV7Amns",
+      "ext": "AppV7Fz"
+    },
    {
       "key": "网盘",
       "name": "❄️网盘|4K",
